@@ -24,4 +24,4 @@ Install the dependencies with:
 
 ## Usage
 
-#### `python3 createImage.py <input_file.txt> <outputFileName.fileExt>
+#### `python3 createImage.py <input_file.txt> <outputFileName.fileExt>`
